@@ -8,12 +8,10 @@
 # 1º passo
   Clonar ou baixar o repositório em sua máquina.
 #  2º passo
-  Após ter os arquivos necessários (gamecenter.alg).
-#  3º passo  
-  Abrir o VisualG.
-#  4º passo
+  Após ter os arquivos necessários (gamecenter.alg), abrir o VisualG.
+#  3º passo
   Abrir o arquivo .alg que foi baixado.
-#  5º passo
+#  4º passo
   Rodar o programa.
   
 #  ------- Usabilidade -------
