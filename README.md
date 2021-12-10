@@ -35,5 +35,5 @@
   
 #  OBS 2: Caso seu saldo esteja suificente para uma aquisição, não será possível efetuar uma nova compra.
 
-# Por fim, caso deseje o encerramento do programa, a parti do menu principal, selecionar a opção 5.
+# Por fim, caso deseje o encerramento do programa, a partir do menu principal, selecionar a opção 5.
   
